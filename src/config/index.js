@@ -1,0 +1,13 @@
+export const {
+    NODE_ENV,
+    PORT,
+    APP_URL,
+    WEATHER_KEY,
+    WEATHER_URL,
+    SPOTIFY_AUTH_URL,
+    SPOTIFY_SONGS_URL,
+    SPOTIFY_AUTHORIZATION,
+    SPOTIFY_LOGIN,
+    SPOTIFY_CLIENT_ID,
+    SPOTIFY_TOKEN,
+} = process.env;
